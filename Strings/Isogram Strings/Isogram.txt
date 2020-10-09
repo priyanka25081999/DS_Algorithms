@@ -1,0 +1,9 @@
+An Isogram is a word in which no letter occurs more than once.
+
+Examples:
+
+Input : Machine
+Output : Machine is an Isogram
+
+Input : Cake
+Output : Cake is not an Isogram
