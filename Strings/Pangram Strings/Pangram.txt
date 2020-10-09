@@ -1,0 +1,9 @@
+A pangram is a string that contains all the letters of the English alphabet. 
+
+Examples:
+
+Input : The quick brown fox jumps over the lazy dog
+Output : The quick brown fox jumps over the lazy dog is a pangram
+
+Input : Have a great day
+Output : Have a great day is not a pangram
